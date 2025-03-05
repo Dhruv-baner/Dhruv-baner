@@ -1,4 +1,6 @@
-## Hi! I'm Dhruv, a student at the London School of Economics, interested in the intersection of data science and public policy
+## Hi! I'm Dhruv Banerjee 
+
+#### I'm a student at the London School of Economics, interested in the intersection of data science and public policy
 
 - 🌱 I’m currently learning about how to use Data Science, Machine Learning, and Data Analysis with reference to policy-related areas such as education, health, and economics
 
