@@ -10,10 +10,38 @@
 
 ## **End-to-End ML Projects**
 
-![ML Model Results Dashboard](https://github.com/user-attachments/assets/7bef6693-ff97-4951-92a7-1b84d7bc1416)
+## Investment Atlas: AI-Powered Regional Economic Analysis
 
+**The Challenge**
 
-![Project Screenshot](https://github.com/user-attachments/assets/11e0eda4-1582-4a54-9a9b-c1e62b9436e0)
+India's economic growth remains heavily concentrated in 15-20 metro districts, while 200+ districts continue to depend primarily on agriculture with limited access to diversified economic opportunities. This concentration creates significant market inefficiencies: 60% of the population resides in underutilized economic zones, investment capital clusters in saturated metro markets, and an estimated ₹10,000+ crores in annual potential remains untapped.
+
+**The Solution**
+
+I developed an end-to-end machine learning platform to systematically identify high-potential districts for strategic investment and economic diversification. The analysis covered 180 districts across four major states (Maharashtra, Tamil Nadu, Karnataka, Uttar Pradesh), representing a combined population of 510 million people.
+
+**Technical Approach & Key Findings**
+
+Using ensemble machine learning methods, I built a predictive model that revealed infrastructure connectivity as the single most important factor for investment success, accounting for 28% of the prediction weight. This finding challenges conventional wisdom—traditional indicators like literacy rates and population size ranked surprisingly low, suggesting that digital and physical connectivity are now the primary drivers of regional economic potential.
+
+The model classified districts into three distinct economic profiles:
+- **Advanced Economic Hubs:** 130 districts with established infrastructure
+- **Industrial Transformation Zones:** 37 districts showing rapid industrial development
+- **Agro-Processing Opportunities:** 13 districts with strong agricultural base and processing potential
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bef6693-ff97-4951-92a7-1b84d7bc1416" alt="ML Model Results Dashboard" width="700" />
+</p>
+
+**Business Impact**
+
+The analysis identified sector-specific opportunities with potential to create 16,000+ new business units. By matching sectors to regions with demonstrated comparative advantages, the platform provides actionable investment recommendations that balance risk across different economic models.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11e0eda4-1582-4a54-9a9b-c1e62b9436e0" alt="Sectoral opportunity mapping across regions" width="700" />
+</p>
+
+**Strategic Value:** This methodology translates complex socioeconomic data into investment-grade intelligence, enabling data-driven capital allocation decisions for private equity, government planning, and corporate expansion strategies.
 
 ## Textual Analysis & Topic Modelling
 
