@@ -1,15 +1,29 @@
-## Hi! I'm Dhruv Banerjee 
+## Hi, I'm Dhruv Banerjee 
 
-#### I'm a student at the London School of Economics, interested in the intersection of data science and public policy
+**MSc Data Science @ LSE** 
 
-- 🌱 I’m currently learning about how to use Data Science, Machine Learning, and Data Analysis with reference to policy-related areas such as education, health, and economics
+I build ML systems and analyze data to solve real problems. Currently wrapping up my MSc at LSE while exploring the intersection of data science, economics, and business strategy.
 
-- 🔭 I’m working on understanding better how data science and AI can be most beneficially incorporated into public services, and regulated to reduce risk without stifling growth. I genuinely believe that if used properly, technologies such as AI can evenly spread out economic growth. 
+**What I'm building:**
+- ML-powered investment analysis tools for regional economic opportunity mapping
+- NLP systems for analyzing large-scale policy discourse and organizational priorities
+- Using multi-agent systems to comprehensively solve real world challenges
+- Really interested in the tech startup space, as well as those supporting such ventures
 
-- 📫 How to reach me: via email at D.Banerjee1@lse.ac.uk or Linkedin at [Dhruv Banerjee](https://www.linkedin.com/in/dhruv-banerjee-514983287/) 
+**Background:**
+- Finishing MSc Data Science at London School of Economics
+- Contributed to India's national AI Policy at Observer Research Foundation
+- Economics & International Relations background from Sciences Po Paris
+- Experience translating technical analysis into business and policy insights
 
-## **End-to-End ML Projects**
+**Tech stack:** Python, PyTorch, scikit-learn, BERTopic, SQL, data visualization, agentic AI (Langchain, LangGraph)  
+**Interests:** NLP, predictive modeling, causal inference, marketplace dynamics, investment research
 
+
+**Let's connect:**  
+📧 D.Banerjee1@lse.ac.uk | 💼 [LinkedIn](your-linkedin-url) | 🐦 [Twitter/X](your-twitter-url)
+
+---
 
 ## Textual Analysis & Topic Modelling
 
