@@ -10,3 +10,6 @@
 
 
 ![ML Model Results Dashboard](https://github.com/user-attachments/assets/7bef6693-ff97-4951-92a7-1b84d7bc1416)
+
+
+![Project Screenshot](https://github.com/user-attachments/assets/11e0eda4-1582-4a54-9a9b-c1e62b9436e0)
