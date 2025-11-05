@@ -7,11 +7,11 @@ I build ML systems and analyze data to solve real problems. Currently wrapping u
 **What I'm building:**
 - ML-powered investment analysis tools for regional economic opportunity mapping
 - NLP systems for analyzing large-scale policy discourse and organizational priorities
-- Using multi-agent systems to comprehensively solve real world challenges
+- Using multi-agent systems to comprehensively solve real-world challenges
 - Really interested in the tech startup space, as well as those supporting such ventures
 
 **Background:**
-- Finishing MSc Data Science at London School of Economics
+- Finishing MSc Data Science at the London School of Economics
 - Contributed to India's national AI Policy at Observer Research Foundation
 - Economics & International Relations background from Sciences Po Paris
 - Experience translating technical analysis into business and policy insights
@@ -21,7 +21,7 @@ I build ML systems and analyze data to solve real problems. Currently wrapping u
 
 
 **Let's connect:**  
-📧 D.Banerjee1@lse.ac.uk | 💼 [LinkedIn](your-linkedin-url) | 🐦 [Twitter/X](your-twitter-url)
+📧 D.Banerjee1@lse.ac.uk | 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-banerjee-514983287/) | 
 
 ---
 
@@ -29,7 +29,7 @@ I build ML systems and analyze data to solve real problems. Currently wrapping u
 
 Natural Language Processing has become increasingly valuable for policy research, enabling analysis of large-scale discourse patterns that would be impossible to detect manually. I've applied these techniques to examine how political priorities evolve over time and across different actors.
 
-### **Project: EU Policy Discourse Analysis (2009-2023)**
+#### **Project: EU Policy Discourse Analysis (2009-2023)**
 
 Working with a comprehensive dataset of 106,000+ speeches from European Parliament debates spanning 15 years, I developed a two-part analytical framework to uncover patterns in party priorities and policy evolution.
 
@@ -54,7 +54,10 @@ By tracking topic prevalence across years, I mapped how EU discourse shifted in 
 
 **Impact:** This methodology can be applied to analyze any large corpus of institutional discourse, offering data-driven insights into policy shifts, coalition patterns, and emerging priorities—valuable for strategic planning in both public and private sectors.
 
-### Investment Atlas: AI-Powered Regional Economic Analysis
+---
+## **End-to-End ML Projects**
+
+#### Project: Investment Atlas - AI-Powered Regional Economic Analysis
 
 **The Challenge**
 
