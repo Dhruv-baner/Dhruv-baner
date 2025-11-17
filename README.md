@@ -36,24 +36,23 @@ Natural Language Processing has become increasingly valuable for policy research
 
 An agentic intelligence platform monitoring regulatory developments across five major markets (USA, UK, France, Germany, Japan), processing 100+ articles daily through GPT-powered analysis to generate actionable insights for institutional investors. The system aggregates multi-source data, performs LLM-based relevance scoring and categorization, and delivers interactive visualizations for real-time regulatory intelligence.
 
-<img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_1.png" width="450" align="center" alt="Geographic Intelligence View"/>
-
-**Technical Architecture**
-
-The data pipeline aggregates regulatory news from NewsAPI and Google News RSS feeds, performing automated deduplication and market-specific keyword filtering for regulatory authorities (SEC, FCA, BaFin, AMF, FSA). Custom GPT-3.5-turbo prompts analyze each article to generate structured outputs including relevance scores (0-10), impact classifications (High/Medium/Low), regulation categories (Data Privacy, Financial Services, AI/Tech, Environmental, Securities), key regulator identification, and executive summaries. The visualization layer features five interactive Plotly dashboards with real-time filtering capabilities by market, category, impact level, and relevance threshold.
-
-
-
 <img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_2.png" width="400" align="left" alt="Market Overview"/>
 <img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_3.png" width="400" align="right" alt="Distribution Analysis"/>
 
 <br clear="both"/>
 
+**Technical Architecture**
+
+The data pipeline aggregates regulatory news from NewsAPI and Google News RSS feeds, performing automated deduplication and market-specific keyword filtering for regulatory authorities (SEC, FCA, BaFin, AMF, FSA). Custom GPT-3.5-turbo prompts analyze each article to generate structured outputs including relevance scores (0-10), impact classifications (High/Medium/Low), regulation categories (Data Privacy, Financial Services, AI/Tech, Environmental, Securities), key regulator identification, and executive summaries. The visualization layer features five interactive Plotly dashboards with real-time filtering capabilities by market, category, impact level, and relevance threshold.
+
 **Technology Stack**
 
 **Backend:** Python, Pandas, LangChain | **LLM:** OpenAI GPT-3.5-turbo | **Visualization:** Plotly, Streamlit | **Data Sources:** NewsAPI, Google News RSS | **Deployment:** Streamlit Cloud
 
-<img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_4.png" width="500" align="center" alt="Regulation Categories by Market"/>
+<img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_4.png" width="400" align="right" alt="Regulation Categories by Market"/>
+<img src="https://raw.githubusercontent.com/Dhruv-baner/regulation_news/main/assets/screenshots/plot_1.png" width="400" align="left" alt="Geographic Intelligence View"/>
+
+<br clear="both"/>
 
 **Key Capabilities**
 
