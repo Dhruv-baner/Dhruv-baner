@@ -67,10 +67,11 @@ Working with a comprehensive dataset of 106,000+ speeches from European Parliame
 
 Using dimensionality reduction (PCA) and cosine similarity measures on speech embeddings, I mapped ideological proximities across party groups. The analysis revealed an unexpected pattern: centrist parties demonstrate significantly higher inter-group similarity compared to parties at either end of the political spectrum. This suggests centrist coalitions may find common ground more readily than left-wing or right-wing blocs among themselves.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/30aacd20-a2f9-4352-887d-9d4d9c8d6481" alt="PCA visualization of party similarity" width="450" />
-  <img src="https://github.com/user-attachments/assets/3e972ad6-faa2-48ed-85b3-804cfc3c7cfe" alt="Cosine similarity heatmap" width="450" />
-</p>
+  <img src="https://github.com/user-attachments/assets/30aacd20-a2f9-4352-887d-9d4d9c8d6481" alt="PCA visualization of party similarity" width="400" align="right"/>
+  <img src="https://github.com/user-attachments/assets/3e972ad6-faa2-48ed-85b3-804cfc3c7cfe" alt="Cosine similarity heatmap" width="400" align="left"/>
+
+  <br clear="both"/>
+
 
 **Part 2: Temporal Topic Evolution**
 
@@ -79,7 +80,7 @@ After evaluating multiple approaches (LSA, LDA), I implemented BERTopic for its 
 By tracking topic prevalence across years, I mapped how EU discourse shifted in response to external events—from financial crises to migration flows to climate negotiations. This temporal analysis provides quantifiable evidence of how legislative priorities respond to real-world developments.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d672432f-b612-46f9-8eeb-57dd1e46d528" alt="Temporal trends in EU policy topics" width="800" />
+  <img src="https://github.com/user-attachments/assets/d672432f-b612-46f9-8eeb-57dd1e46d528" alt="Temporal trends in EU policy topics" width="500" />
 </p>
 
 **Impact:** This methodology can be applied to analyze any large corpus of institutional discourse, offering data-driven insights into policy shifts, coalition patterns, and emerging priorities—valuable for strategic planning in both public and private sectors.
