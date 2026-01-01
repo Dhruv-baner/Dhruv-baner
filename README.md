@@ -2,19 +2,17 @@
 
 **MSc Data Science @ LSE** 
 
-I build ML systems and analyze data to solve real problems. Currently wrapping up my MSc at LSE while exploring the intersection of data science, economics, and business strategy.
+I'm obsessed with innovation, with experience in data science and AI across a range of sectors, including energy, policy, and business strategy. Happy to have a chat if you're looking to drive impactful change!
 
 **What I'm building:**
-- ML-powered investment analysis tools for regional economic opportunity mapping
-- NLP systems for analyzing large-scale policy discourse and organizational priorities
-- Using multi-agent systems to comprehensively solve real-world challenges
-- Really interested in the tech startup space, as well as those supporting such ventures
+- Currently working on practical end-to-end agentic systems.
+- In the works is a tool to link solutions from the latest academic research to industry-specific use cases.
+- Really interested in the tech startup space, as well as those supporting such ventures.
 
 **Background:**
-- Finishing MSc Data Science at the London School of Economics
-- Contributed to India's national AI Policy at Observer Research Foundation
-- Economics & International Relations background from Sciences Po Paris
-- Experience translating technical analysis into business and policy insights
+- Pursuing an MSc in Data Science at the London School of Economics.
+- BA in Politics (+ Economics) at Sciences Po Paris 
+- Experience applying data science and AI across commercial, policy, and energy sectors.
 
 **Tech stack:** Python, PyTorch, scikit-learn, BERTopic, SQL, data visualization, agentic AI (Langchain, LangGraph)  
 **Interests:** NLP, predictive modeling, causal inference, marketplace dynamics, investment research
