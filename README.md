@@ -11,7 +11,7 @@ I'm obsessed with innovation, with experience in data science and AI across a ra
 
 **Background:**
 - Pursuing an MSc in Data Science at the London School of Economics.
-- BA in Politics (+ Economics) at Sciences Po Paris 
+- BA in Politics (+ Data Science) at Sciences Po Paris 
 - Experience applying data science and AI across commercial, policy, and energy sectors.
 
 **Tech stack:** Python, PyTorch, scikit-learn, BERTopic, SQL, data visualization, agentic AI (Langchain, LangGraph)  
