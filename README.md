@@ -28,11 +28,14 @@ Modern AI development increasingly relies on multi-agent architectures where spe
 #### Project: Radar - AI Research Intelligence Agent
 **[GitHub Repository](https://github.com/Dhruv-baner/radar)** | **[Architecture Docs](https://github.com/Dhruv-baner/radar/blob/main/docs/architecture.md)** | **[Example Output](https://github.com/Dhruv-baner/radar/blob/main/docs/example-output.md)**
 
-An autonomous multi-agent system that discovers, analyzes, and translates cutting-edge AI research from ArXiv into accessible insights for non-technical stakeholders. The system automatically processes 50-200 papers daily through a three-stage pipeline: a Paper Analyzer agent extracts technical insights, a Simplifier agent generates accessible explanations using a structured Challenge→Solution→Impact format, and an Industry Matcher agent (in development) maps innovations to real-world applications across sectors.
+An autonomous multi-agent system that discovers, analyzes, and translates cutting-edge AI research from ArXiv into accessible insights for non-technical stakeholders. The system automatically processes 50-200 papers daily through a three-stage pipeline: 
+- Paper Analyzer agent extracts technical insights
+- Simplifier agent generates accessible explanations using a structured Challenge→Solution→Impact format
+- Industry Matcher agent (in development) maps innovations to real-world applications across sectors.
 
 **Technical Architecture**
 
-The pipeline begins with ArXiv API integration filtering papers by AI/ML categories (cs.AI, cs.LG, cs.CL, cs.CV), followed by PyMuPDF-based text extraction that parses PDFs into structured sections. The LangGraph orchestration layer manages state flow between specialized agents: the Paper Analyzer processes 8,000+ character inputs to extract methods, results, and limitations; the Simplifier transforms technical content through Claude Sonnet 4 into executive summaries, challenge context, and key technical points. All outputs are structured as JSON for downstream applications, achieving 100% processing reliability with 60-second average latency per paper.
+The pipeline begins with ArXiv API integration filtering papers by AI/ML categories (cs.AI, cs.LG, cs.CL, cs.CV), followed by **PyMuPDF-based text extraction** that parses PDFs into structured sections. The **LangGraph orchestration** layer manages state flow between specialized agents: the Paper Analyzer processes 8,000+ character inputs to extract methods, results, and limitations; the Simplifier transforms technical content through Claude Sonnet 4 into executive summaries, challenge context, and key technical points. All outputs are structured as JSON for downstream applications, achieving 100% processing reliability with 60-second average latency per paper.
 
 **Technology Stack**
 
@@ -42,25 +45,7 @@ The pipeline begins with ArXiv API integration filtering papers by AI/ML categor
 
 Transforms dense academic papers (avg. 66,000 characters) into 2-minute accessible reads while preserving technical accuracy. Demonstrated on papers ranging from graph neural networks to ensemble decoding, achieving consistent quality across diverse AI subfields. System designed for daily automation via GitHub Actions to generate weekly research digests.
 ```
-
 ---
-
-## **For Images:**
-
-You need 2-4 compact images. Here are options:
-
-### **Option 1: Create Simple Diagrams (Recommended)**
-
-**Image 1: Agent Pipeline Flow** (horizontal)
-```
-ArXiv → PDF Processing → Paper Analyzer → Simplifier → Output
-         ↓                    ↓              ↓
-    117k chars         Technical      Accessible
-                       Insights       Explanation
-
-
-
-
 
 ## Textual Analysis & Topic Modelling
 
