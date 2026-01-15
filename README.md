@@ -33,6 +33,10 @@ An autonomous multi-agent system that discovers, analyzes, and translates cuttin
 - Simplifier agent generates accessible explanations using a structured Challenge→Solution→Impact format
 - Industry Matcher agent (in development) maps innovations to real-world applications across sectors.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dhruv-baner/radar/main/assets/architecture-diagram.png" width="700" alt="Radar Agent Pipeline Architecture"/>
+</div>
+
 **Technical Architecture**
 
 - The pipeline begins with ArXiv API integration filtering papers by AI/ML categories (cs.AI, cs.LG, cs.CL, cs.CV), followed by **PyMuPDF-based text extraction** that parses PDFs into structured sections. 
