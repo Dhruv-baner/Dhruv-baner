@@ -35,7 +35,9 @@ An autonomous multi-agent system that discovers, analyzes, and translates cuttin
 
 **Technical Architecture**
 
-The pipeline begins with ArXiv API integration filtering papers by AI/ML categories (cs.AI, cs.LG, cs.CL, cs.CV), followed by **PyMuPDF-based text extraction** that parses PDFs into structured sections. The **LangGraph orchestration** layer manages state flow between specialized agents: the Paper Analyzer processes 8,000+ character inputs to extract methods, results, and limitations; the Simplifier transforms technical content through Claude Sonnet 4 into executive summaries, challenge context, and key technical points. All outputs are structured as JSON for downstream applications, achieving 100% processing reliability with 60-second average latency per paper.
+- The pipeline begins with ArXiv API integration filtering papers by AI/ML categories (cs.AI, cs.LG, cs.CL, cs.CV), followed by **PyMuPDF-based text extraction** that parses PDFs into structured sections. 
+- The **LangGraph orchestration** layer manages state flow between specialized agents: the Paper Analyzer processes 8,000+ character inputs to extract methods, results, and limitations; the Simplifier transforms technical content through Claude Sonnet 4 into executive summaries, challenge context, and key technical points.
+- All outputs are structured as JSON for downstream applications, achieving 100% processing reliability with 60-second average latency per paper.
 
 **Technology Stack**
 
