@@ -45,7 +45,7 @@ The pipeline begins with ArXiv API integration filtering papers by AI/ML categor
 
 Transforms dense academic papers (avg. 66,000 characters) into 2-minute accessible reads while preserving technical accuracy. Demonstrated on papers ranging from graph neural networks to ensemble decoding, achieving consistent quality across diverse AI subfields. System designed for daily automation via GitHub Actions to generate weekly research digests.
 ```
----
+
 
 ## Textual Analysis & Topic Modelling
 
