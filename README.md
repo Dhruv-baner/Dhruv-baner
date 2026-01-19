@@ -2,7 +2,7 @@
 
 **MSc Data Science @ LSE** 
 
-I'm obsessed with innovation, with experience in data science and AI across a range of sectors, including energy, policy, and business strategy. Happy to have a chat if you're looking to drive impactful change!
+I'm obsessed with innovation, with experience in data science and AI across a range of sectors, including energy, policy, and business strategy. I'd be happy to have a chat if you're looking to drive impactful change!
 
 **What I'm building:**
 - Currently working on practical end-to-end agentic systems.
@@ -25,7 +25,7 @@ I'm obsessed with innovation, with experience in data science and AI across a ra
 ## Agentic AI Systems
 Modern AI development increasingly relies on multi-agent architectures where specialized models collaborate to solve complex problems. I've built systems that orchestrate multiple AI agents to process, analyze, and translate technical content at scale, demonstrating practical applications of LangGraph and production LLM workflows.
 
-#### Project: Radar - AI Research Intelligence Agent
+### **Project: Radar - AI Research Intelligence Agent**
 **[GitHub Repository](https://github.com/Dhruv-baner/radar)** | **[Architecture Docs](https://github.com/Dhruv-baner/radar/blob/main/docs/architecture.md)** | **[Example Output](https://github.com/Dhruv-baner/radar/blob/main/docs/example-output.md)**
 
 An autonomous multi-agent system that discovers, analyzes, and translates cutting-edge AI research from ArXiv into accessible insights for non-technical stakeholders. The system automatically processes 50-200 papers daily through a three-stage pipeline: 
@@ -58,7 +58,7 @@ Transforms dense academic papers (avg. 66,000 characters) into 2-minute accessib
 Natural Language Processing has become increasingly valuable for policy research, enabling analysis of large-scale discourse patterns that would be impossible to detect manually. I've applied these techniques to examine how political priorities evolve over time and across different actors.
 
 
-#### Project: Regulation Tracker
+### **Project: Regulation Tracker**
 
 **[Live Dashboard](https://regulationnews-khvu3dtti5pz8f2gr5dw9f.streamlit.app/)** | **[GitHub Repository](https://github.com/Dhruv-baner/regulation_news)**
 
@@ -87,7 +87,7 @@ The data pipeline aggregates regulatory news from NewsAPI and Google News RSS fe
 The platform delivers intelligent scoring through GPT-powered relevance assessment on a 0-10 scale, prioritizing high-impact regulatory changes. It provides simultaneous monitoring across USA, UK, Germany, France, and Japan with market-specific authority tracking. Interactive filtering enables dynamic dashboard updates by market, category, impact level, and relevance threshold. The system performs automated daily processing of 100+ articles with structured categorization and executive summaries, delivering curated insights for investment decision-making.
 
 
-#### **Project: EU Policy Discourse Analysis (2009-2023)**
+### **Project: EU Policy Discourse Analysis (2009-2023)**
 
 Working with a comprehensive dataset of 106,000+ speeches from European Parliament debates spanning 15 years, I developed a two-part analytical framework to uncover patterns in party priorities and policy evolution.
 
@@ -116,7 +116,7 @@ By tracking topic prevalence across years, I mapped how EU discourse shifted in 
 ---
 ## **End-to-End ML Projects**
 
-#### Project: Investment Atlas - AI-Powered Regional Economic Analysis
+### **Project: Investment Atlas - AI-Powered Regional Economic Analysis**
 
 **The Challenge**
 
