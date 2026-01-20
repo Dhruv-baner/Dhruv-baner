@@ -55,11 +55,11 @@ Transforms dense academic papers (avg. 66,000 characters) into 2-minute accessib
 
 ## MLOps 
 
-### **Featured Project: UK Energy Grid Dashboard**
+### **Project: UK Energy Grid Dashboard**
+
+[View Full Analysis](https://github.com/Dhruv-baner/uk-energy-grid)
 
 Real-time monitoring system analyzing UK electricity generation patterns with production MLOps infrastructure.
-
-![UK Energy Dashboard](https://raw.githubusercontent.com/Dhruv-baner/uk-energy-grid/main/assets/uk_energy_dashboard.png)
 
 **Key Findings:**
 - UK grid averaged **49.6% renewable** energy (30-day analysis)
@@ -67,7 +67,14 @@ Real-time monitoring system analyzing UK electricity generation patterns with pr
 - Peak renewable: **77.1%** | Coal completely phased out
 - Built with Python, Plotly, Prophet forecasting & MLflow tracking
 
-**[View Full Analysis](https://github.com/Dhruv-baner/uk-energy-grid)**
+![UK Energy Dashboard](https://raw.githubusercontent.com/Dhruv-baner/uk-energy-grid/main/assets/uk_energy_dashboard.png)
+
+
+**Production MLOps Pipeline (In Progress):**
+- MLflow experiment tracking for model versioning and performance monitoring
+- Evidently, AI drift detection to catch data quality issues automatically
+- Prometheus + Grafana dashboards for real-time model metrics and alerting
+- Dockerized deployment with automated retraining pipelines on model degradation
 ---
 
 ## Textual Analysis & Topic Modelling
