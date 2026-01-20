@@ -53,6 +53,23 @@ Transforms dense academic papers (avg. 66,000 characters) into 2-minute accessib
 
 ---
 
+## MLOps 
+
+### **Featured Project: UK Energy Grid Dashboard**
+
+Real-time monitoring system analyzing UK electricity generation patterns with production MLOps infrastructure.
+
+![UK Energy Dashboard](https://raw.githubusercontent.com/Dhruv-baner/uk-energy-grid/main/assets/uk_energy_dashboard.png)
+
+**Key Findings:**
+- UK grid averaged **49.6% renewable** energy (30-day analysis)
+- **Wind generation (36.7%)** now rivals gas (38.1%)
+- Peak renewable: **77.1%** | Coal completely phased out
+- Built with Python, Plotly, Prophet forecasting & MLflow tracking
+
+**[View Full Analysis](https://github.com/Dhruv-baner/uk-energy-grid)**
+---
+
 ## Textual Analysis & Topic Modelling
 
 Natural Language Processing has become increasingly valuable for policy research, enabling analysis of large-scale discourse patterns that would be impossible to detect manually. I've applied these techniques to examine how political priorities evolve over time and across different actors.
