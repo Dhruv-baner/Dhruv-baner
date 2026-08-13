@@ -1,6 +1,7 @@
 ## Hi, I'm Dhruv Banerjee 
 
-**MSc Data Science @ LSE** 
+**MSc Data Science @ LSE:** 
+
 Data Scientist with experience working with some of the biggest companies in the energy and policy sectors. 
 
 **What I'm building!**
