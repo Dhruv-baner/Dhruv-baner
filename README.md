@@ -1,13 +1,12 @@
 ## Hi, I'm Dhruv Banerjee 
 
 **MSc Data Science @ LSE** 
+Data Scientist with experience working with some of the biggest companies in the energy and policy sectors. 
 
-I'm obsessed with innovation, with experience in data science and AI across a range of sectors, including energy, policy, and business strategy. I'd be happy to have a chat if you're looking to drive impactful change!
-
-**What I'm building:**
-- Currently working on practical end-to-end agentic systems.
-- In the works is a tool to link solutions from the latest academic research to industry-specific use cases.
-- Really interested in the tech startup space, as well as those supporting such ventures.
+**What I'm building!**
+- Current Project: Automated agentic tracker for European startup funding, with 1100+ tracked deals and advanced dashboard analytics.
+- Current Research: Using advanced statistical and data science methods to gain causal insights on what actually impacts AI Infrastructure and data centres
+- Current Interest: Startups and investment into ventures! Really passionate about the tech and innovation ecosystem (Europe and India), building a media network for startups
 
 **Background:**
 - Pursuing an MSc in Data Science at the London School of Economics.
@@ -18,7 +17,7 @@ I'm obsessed with innovation, with experience in data science and AI across a ra
 **Interests:** NLP, predictive modeling, causal inference, marketplace dynamics, investment research
 
 
-**Let's connect:**  
+**Contact:**  
 📧 D.Banerjee1@lse.ac.uk | 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-banerjee-514983287/) | 
 
 ---
